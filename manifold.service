@@ -1,0 +1,10 @@
+[Unit]
+Description=Service de lancement d'Apache ManifoldCF
+
+[Service]
+Type=simple
+ExecStart=java -jar /opt/manifoldcf/bin/start.jar
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
