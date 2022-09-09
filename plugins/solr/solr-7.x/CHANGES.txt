@@ -1,0 +1,13 @@
+Apache ManifoldCF Plugin for Apache Solr 7.x change Log
+$Id: CHANGES.txt 1825330 2018-02-25 22:37:54Z kwright $
+
+======================= Release 2.2.1 ======================
+
+CONNECTORS-1496: Upgrade to Solr 7.2.1.
+(Shinichiro Abe)
+
+======================= Release 2.2 ======================
+
+Initial commit: Upgraded to Solr 7.0.0.
+(Shinichiro Abe)
+

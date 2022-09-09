@@ -1,0 +1,10 @@
+Apache ManifoldCF Plugin for SharePoint 2016 requires
+----------------------------------------------------
+* Microsoft SharePoint version 6.0 (2016)
+
+For running Apache ManifoldCF Plugin for SharePoint 2016:
+-------------------------------------------------------
+
+* See README.txt
+
+
