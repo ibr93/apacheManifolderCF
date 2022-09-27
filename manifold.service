@@ -2,8 +2,9 @@
 Description=Service de lancement d'Apache ManifoldCF
 
 [Service]
+WorkingDirectory=/opt/apacheManifolderCF/bin/
 Type=simple
-ExecStart=java -jar /opt/manifoldcf/bin/start.jar
+ExecStart=java -jar start.jar
 Restart=always
 
 [Install]

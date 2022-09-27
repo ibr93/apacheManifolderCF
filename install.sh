@@ -19,3 +19,6 @@ sudo systemctl enable $SERVICE_NAME
 
 echo "fin"
 
+
+sudo firewall-cmd --zone=public --add-port=8345/tcp --permanent
+sudo firewall-cmd --reload 
